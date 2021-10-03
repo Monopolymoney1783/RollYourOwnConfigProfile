@@ -43,40 +43,16 @@
           <string>com.apple.mobilenotes</string>
           <key>Options</key>
           <dict>
-            <key>EnableInvertColors</key>
-            <false/>
-            <key>DisableDeviceRotation</key>
-            <false/>
-            <key>EnableMonoAudio</key>
-            <false/>
-            <key>DisableVolumeButtons</key>
-            <false/>
-            <key>EnableAssistiveTouch</key>
-            <false/>
-            <key>DisableAutoLock</key>
-            <false/>
-            <key>EnableZoom</key>
-            <false/>
             <key>EnableVoiceOver</key>
             <false/>
             <key>DisableTouch</key>
             <false/>
             <key>EnableSpeakSelection</key>
             <false/>
-            <key>DisableSleepWakeButton</key>
-            <false/>
-            <key>DisableRingerSwitch</key>
-            <false/>
           </dict>
           <key>UserEnabledOptions</key>
           <dict>
             <key>VoiceOver</key>
-            <false/>
-            <key>InvertColors</key>
-            <false/>
-            <key>Zoom</key>
-            <false/>
-            <key>AssistiveTouch</key>
             <false/>
           </dict>
         </dict>
